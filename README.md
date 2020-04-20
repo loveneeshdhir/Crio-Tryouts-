@@ -2,6 +2,8 @@
 
 ## Organization Overview
 
+### QEats
+
 QEats is a popular food ordering app. It gives users a list of nearby restaurants and popular dishes. Users can use the app to order their favourite dishes from restaurants of their choice. Millions of users across the country have been using the QEats app to satisfy their hunger and taste buds.  - The most requested feature on QEats is the ability to share reviews on past orders on QEats' social media pages.
 
 ## Work Done
